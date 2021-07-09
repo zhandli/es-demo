@@ -2,4 +2,5 @@ testelasticsearch:
     elasticsearch:
         password: test
         port: 9200
+        test: test
         hostList: 106.14.35.138:9200 #多个结点中间用逗号分隔
